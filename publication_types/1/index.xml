@@ -5,12 +5,28 @@
     <link>https://sibeiyang.github.io/publication_types/1/</link>
       <atom:link href="https://sibeiyang.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sibeiyang.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://sibeiyang.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Bottom-Up Shift and Reasoning for Referring Image Segmentation</title>
+      <link>https://sibeiyang.github.io/publication/busnet/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://sibeiyang.github.io/publication/busnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propagating Over Phrase Relations for One-Stage Visual Grounding</title>
+      <link>https://sibeiyang.github.io/publication/lspn/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://sibeiyang.github.io/publication/lspn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Graph-Structured Referring Expressions Reasonig in The Wild</title>
