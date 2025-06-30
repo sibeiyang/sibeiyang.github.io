@@ -61,6 +61,9 @@ ninja.data = [{
           section: "News",},{id: "news-2-papers-are-accepted-by-acl-2025",
           title: '2 papers are accepted by ACL 2025 🎉🎉',
           description: "",
+          section: "News",},{id: "news-7-papers-are-accepted-by-iccv-2025",
+          title: '7 papers are accepted by ICCV 2025 👏👏👏',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
