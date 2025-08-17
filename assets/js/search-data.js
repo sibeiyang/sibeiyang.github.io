@@ -64,6 +64,9 @@ ninja.data = [{
           section: "News",},{id: "news-7-papers-are-accepted-by-iccv-2025",
           title: '7 papers are accepted by ICCV 2025 👏👏👏',
           description: "",
+          section: "News",},{id: "news-sibei-yang-will-serve-as-area-chair-for-iclr-2026",
+          title: 'Sibei Yang will serve as Area Chair for ICLR 2026',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
