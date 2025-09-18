@@ -64,6 +64,9 @@ ninja.data = [{
           section: "News",},{id: "news-sibei-yang-will-serve-as-area-chair-for-iclr-2026",
           title: 'Sibei Yang will serve as Area Chair for ICLR 2026',
           description: "",
+          section: "News",},{id: "news-5-papers-are-accepted-by-neurips-2025",
+          title: '5 papers are accepted by NeurIPS 2025 🎊🎊🎊',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
