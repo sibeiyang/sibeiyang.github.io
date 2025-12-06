@@ -67,6 +67,12 @@ ninja.data = [{
           section: "News",},{id: "news-5-papers-are-accepted-by-neurips-2025",
           title: '5 papers are accepted by NeurIPS 2025 🎊🎊🎊',
           description: "",
+          section: "News",},{id: "news-sibei-yang-is-listed-in-the-stanford-university-elsevier-world-s-top-2-scientists",
+          title: 'Sibei Yang is listed in the Stanford University/Elsevier “World’s Top 2% Scientists”',
+          description: "",
+          section: "News",},{id: "news-congratulations-to-yulin-zhang-and-jiajin-tang-for-receiving-the-national-scholarship",
+          title: 'Congratulations to Yulin Zhang and Jiajin Tang for receiving the National Scholarship👍',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
