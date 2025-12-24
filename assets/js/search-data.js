@@ -73,6 +73,9 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-yulin-zhang-and-jiajin-tang-for-receiving-the-national-scholarship",
           title: 'Congratulations to Yulin Zhang and Jiajin Tang for receiving the National Scholarship👍',
           description: "",
+          section: "News",},{id: "news-sibei-yang-will-serve-as-area-chair-for-eccv-2026",
+          title: 'Sibei Yang will serve as Area Chair for ECCV 2026.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
