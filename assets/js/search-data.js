@@ -77,7 +77,7 @@ ninja.data = [{
           title: 'Sibei Yang will serve as Area Chair for ECCV 2026.',
           description: "",
           section: "News",},{id: "news-2-papers-are-accepted-by-iclr-2026",
-          title: '2 papers are accepted by ICLR 2026.',
+          title: '2 papers are accepted by ICLR 2026.🐲🐲🐲',
           description: "",
           section: "News",},{
       id: 'light-theme',
