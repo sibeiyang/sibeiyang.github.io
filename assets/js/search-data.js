@@ -76,6 +76,9 @@ ninja.data = [{
           section: "News",},{id: "news-sibei-yang-will-serve-as-area-chair-for-eccv-2026",
           title: 'Sibei Yang will serve as Area Chair for ECCV 2026.',
           description: "",
+          section: "News",},{id: "news-2-papers-are-accepted-by-iclr-2026",
+          title: '2 papers are accepted by ICLR 2026.',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
